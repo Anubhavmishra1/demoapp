@@ -7,5 +7,6 @@ public class first
             System.out.print(n*i);            
             System.out.print(" ");            
         }
+   System.out.println("New Line has been added");
     }
 }
